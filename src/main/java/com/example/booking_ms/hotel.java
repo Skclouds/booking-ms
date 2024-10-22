@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class hotel {
-    @GetMapping("/hotel")
+    @GetMapping("/hotelss")
 
 
     public String getData() {
